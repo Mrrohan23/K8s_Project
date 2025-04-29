@@ -40,5 +40,5 @@ while True:
     except Exception as e:
         print(f"[ERROR] {e}")
 
-    time.sleep(1)
+    time.sleep(5)
 
