@@ -21,4 +21,4 @@ while True:
             s.sendall(payload.encode('utf-8'))
     except Exception as e:
         print(f"[ERROR] {e}")
-    time.sleep(5)
+    time.sleep(3)
